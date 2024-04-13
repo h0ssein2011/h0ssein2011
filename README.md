@@ -2,6 +2,7 @@
 
 
 Hello, I'm Hossein. Data Analyst & Scientist focus on business analytics with +10 years of experience in differnt industries. 
+Currenlty Data scientist @Haut.ai
 
 * Querying data using SQL.
 * Generate reports and perform ad-hoc data analysis using SQL.
