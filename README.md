@@ -1,5 +1,5 @@
 ### 🙋🏻‍♂️ Introducing Myself
-<img src="img/submissions_g.jpg">
+<img src="img/header_img.jpg">
 
 Hello, I'm Hossein. Data Analyst & Scientist focus on business analytics with +10 years of experience in differnt industries.
 Currenlty Data scientist @Haut.ai
