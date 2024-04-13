@@ -11,9 +11,9 @@ Currenlty Data scientist @Haut.ai
 
 🛠️ Tools
 
-Language: Python, SQL
-Database: Google BigQuery, PostgreSQL, MySQL , Vertica
-Visualization: PowerBi, Streamlit,Tableau, Looker Studio
+* Language: Python, SQL
+* Database: Google BigQuery, PostgreSQL, MySQL , Vertica
+* Visualization: PowerBi, Streamlit,Tableau, Looker Studio
 
 👋🏻 Connect with Me
 
