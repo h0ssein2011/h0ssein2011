@@ -1,4 +1,21 @@
-### Hi there 👋
+### 🙋🏻‍♂️ Introducing Myself
+
+
+Hello, I'm Hossein. Data Analyst & Scientist focus on business analytics with +10 years of experience in differnt industries. 
+
+
+* Querying data using SQL.
+* Generate reports and perform ad-hoc data analysis using SQL.
+* Developing dashboards on PowerBi, Streamlit, Tableau and Looker Studio.
+* Data analysis and reporting using Google Sheets and Excel.
+
+🛠️ Tools
+Language: Python, SQL
+Database: Google BigQuery, PostgreSQL, MySQL , Vertica
+Visualization: PowerBi, Streamlit,Tableau, Looker Studio
+👋🏻 Connect with Me
+[linkedin](https://www.linkedin.com/in/hossein-mortazavi/)
+
 
 <!--
 **h0ssein2011/h0ssein2011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
