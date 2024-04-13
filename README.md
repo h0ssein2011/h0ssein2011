@@ -13,7 +13,9 @@ Hello, I'm Hossein. Data Analyst & Scientist focus on business analytics with +1
 Language: Python, SQL
 Database: Google BigQuery, PostgreSQL, MySQL , Vertica
 Visualization: PowerBi, Streamlit,Tableau, Looker Studio
+
 👋🏻 Connect with Me
+
 [linkedin](https://www.linkedin.com/in/hossein-mortazavi/)
 
 
