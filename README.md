@@ -3,13 +3,13 @@
 
 Hello, I'm Hossein. Data Analyst & Scientist focus on business analytics with +10 years of experience in differnt industries. 
 
-
 * Querying data using SQL.
 * Generate reports and perform ad-hoc data analysis using SQL.
 * Developing dashboards on PowerBi, Streamlit, Tableau and Looker Studio.
 * Data analysis and reporting using Google Sheets and Excel.
 
 🛠️ Tools
+
 Language: Python, SQL
 Database: Google BigQuery, PostgreSQL, MySQL , Vertica
 Visualization: PowerBi, Streamlit,Tableau, Looker Studio
