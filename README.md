@@ -17,7 +17,7 @@ Currenlty Data scientist @Haut.ai
 * Visualization: PowerBi, Streamlit,Tableau, Looker Studio
 
 Confronces:
-* Pydata Yerevan 2022 : [website](https://pydatayerevan.aua.am/presentations/#:~:text=Video-,HOSSEIN%20MORTAZAVI,-Presentation) - [Youtuebe](https://www.youtube.com/watch?v=IRr3gx71rnk&list=PLGVZCDnMOq0qWwVVDmdOw6oxAlqqH8Ca-&index=44)
+* Pydata Yerevan 2022 :[Youtuebe](https://www.youtube.com/watch?v=IRr3gx71rnk&list=PLGVZCDnMOq0qWwVVDmdOw6oxAlqqH8Ca-&index=44)-[website](https://pydatayerevan.aua.am/presentations/#:~:text=Video-,HOSSEIN%20MORTAZAVI,-Presentation)
 * PyCon Estonia 2023 : [website](https://2023.pycon.ee/#:~:text=1%20%40%2014%3A40-,Hossein%20Mortazavi,-Workshop!)
 
 
